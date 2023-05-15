@@ -7,6 +7,9 @@ https://www.techspot.com/downloads/downloadnow/7074/?evp=da25f7b72b5b90222fcfbdc
 3- پروژه خود را ایجاد کنید git bash بعد از نصب گیت و ثبت نام در گیت کراکن با زدن کلیک راست و باز کردن  
 mkdir projectname
 
+3.5- رفتن به داخل پوشه ی پروژه
+cd projectname
+
 4- دستور اضافه کردن گیت به پروژه
 git init
 
